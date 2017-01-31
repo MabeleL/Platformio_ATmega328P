@@ -1,7 +1,4 @@
-/* Testing MQ-2 GAS sensor with serial monitor
-   Suitable for detecting of LPG, i-butane, propane, methane ,alcohol, Hydrogen or smoke
-   More info: http://www.ardumotive.com/how-to-use-mq2-gas-sensor-en.html
-   Dev: Michalis Vasilakis // Date: 11/6/2015 // www.ardumotive.com                     */
+/* Temperature sensor and Light sensor code on ATmega328P using platformio                   */
 
 #include "Arduino.h"
 #include <LiquidCrystal.h>
